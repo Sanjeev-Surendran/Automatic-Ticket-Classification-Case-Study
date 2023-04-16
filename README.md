@@ -53,7 +53,7 @@ With the help of topic modelling, we can map each ticket onto its respective dep
 
 #### Recommendation
 **Logistic Regression with Hyperparameter** model is choosen as the **Best Model** for inference and categorize complaints in to 5 topics.
-Model have Accuracy of **93.36** % and F1 score of **93.36** %
+Model have Accuracy of **93.36** % and F1 score of **93.35** %
 
 
 ### Software and Library Versions
